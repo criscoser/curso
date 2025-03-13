@@ -1,0 +1,18 @@
+# Ignora arquivos de configuração local
+.env
+.venv/
+env/
+
+# Ignora pastas de dependências
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignora arquivos de IDE/editor
+.vscode/
+.idea/
+
+# Ignora arquivos de sistema
+.DS_Store
+Thumbs.db
