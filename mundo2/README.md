@@ -1,1 +1,3 @@
-#mundo 2
+# Mundo 2
+
+começou a ficar difícil vá em frente, Quanto mais dificil, maior a recompensa
